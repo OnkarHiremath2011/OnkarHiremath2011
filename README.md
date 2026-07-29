@@ -2,9 +2,11 @@
 
 # Hi 👋, I'm Onkar Hiremath
 
-### 🚀 AI & Machine Learning Enthusiast | IoT Innovator | Backend Developer
+### 🚀 AI • Machine Learning • Data Science Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Building+AI-Powered+Applications;IoT+Solution+Developer;Smart+India+Hackathon+Participant;Backend+Developer+with+Python+and+Flask;Building+Technology+that+Solves+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Python+Developer;Always+Learning+Something+New+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=OnkarHiremath2011&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -12,48 +14,70 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student**
 
-🏫 Brahmdevdada Mane Institute of Technology
+🏫 **Brahmdevdada Mane Institute of Technology**
 
-📊 CGPA: **8.55/10**
+📈 **CGPA:** **8.66 / 10**
 
-💡 Passionate about:
+🏆 **Smart India Hackathon 2025 – National Level Participant**
 
-- Artificial Intelligence & Machine Learning
-- Intelligent Product Development
-- IoT & Embedded Systems
-- Backend Engineering
-- Data Analytics
-- Cloud Technologies
-
-🏆 National Level Smart India Hackathon Participant
-
-👨‍💻 Python Development Intern @ Cognifyz Technologies
-
-🌱 Currently Learning:
-
-- Advanced Machine Learning
-- System Design
-- Cloud Computing
-- Scalable Backend Architectures
-- Intelligent Automation
-
-🎯 Career Goal:
-
-To build AI-powered products and scalable software systems that solve real-world challenges and create meaningful impact.
-
-📫 Reach Me:
-
-**hiremathonkar2004@gmail.com**
+💼 **Python Development Intern @ Cognifyz Technologies**
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Passionate About
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📊 Data Science
+
+📈 Data Analytics
+
+🧹 Data Preprocessing
+
+📉 Data Visualization
+
+☁ Cloud Computing
+
+📡 IoT & Embedded Systems
+
+💡 Intelligent Product Development
+
+---
+
+## 🌱 Currently Learning
+
+- Data Science
+- Machine Learning
+- Deep Learning
+- Statistics for AI
+- Feature Engineering
+- Model Evaluation
+- Data Visualization
+- Model Deployment
+- MLOps Fundamentals
+
+---
+
+## 🎯 Career Objective
+
+To become a Machine Learning Engineer by designing intelligent, scalable and impactful AI solutions that solve real-world challenges using Data Science, Machine Learning and Artificial Intelligence.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
+
+<a href="https://github.com/OnkarHiremath2011">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://linkedin.com/in/onkar-hiremath-aa5833319">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -62,133 +86,297 @@ To build AI-powered products and scalable software systems that solve real-world
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/OnkarHiremath2011">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
 
 # 📈 Impact Snapshot
 
-🏆 Smart India Hackathon 2025 – National Level Participant
+🏆 National Level Smart India Hackathon Participant
 
-🤖 Built AI-Powered Applications
+🤖 Built AI & ML Applications
 
-📡 Developed IoT-Integrated Systems
+📊 Learning Data Science Daily
 
-🧠 Leading AI & Machine Learning Projects
+📡 Developed IoT Based Smart Systems
 
-⚙️ Designed Scalable Backend Architectures
+💡 Passionate About Solving Real-World Problems
 
-🚀 Actively Building Real-World Products
+🚀 Continuously Building Projects
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,python"/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
 </p>
 
-**NumPy • Pandas • Scikit-Learn • Machine Learning • Data Analytics • Anomaly Detection**
+**Machine Learning**
 
-### Backend Development
+**Data Science**
+
+**Deep Learning**
+
+**NumPy**
+
+**Pandas**
+
+**Scikit-Learn**
+
+**Matplotlib**
+
+**Seaborn**
+
+**Feature Engineering**
+
+**Data Cleaning**
+
+**Exploratory Data Analysis**
+
+**Model Evaluation**
+
+---
+
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,django"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,javascript"/>
+
 </p>
 
-**REST APIs • Authentication • Backend Architecture**
+---
 
-### Programming Languages
+## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,js"/>
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql"/>
+
 </p>
 
-### Databases
+---
+
+## 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
-</p>
 
-### Web Development
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
 </p>
 
-### IoT & Embedded Systems
+---
 
-**ESP32 • Arduino • NodeMCU • BLE • GSM • GPS • Sensor Integration**
-
-### Tools
+## ☁ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+
 </p>
 
-**Selenium • Excel • Python Packaging**
+Learning AWS • Google Cloud • Cloud Computing
+
+---
+
+## 📡 IoT & Embedded Systems
+
+ESP32
+
+Arduino
+
+NodeMCU
+
+BLE
+
+GPS
+
+GSM
+
+Sensor Integration
+
+MQTT
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+Git
+
+GitHub
+
+VS Code
+
+Jupyter Notebook
+
+Google Colab
+
+Excel
+
+Power BI (Learning)
+
+---
+
+# 🔥 Current Focus
+
+✔ Learning Data Science Daily
+
+✔ Building Machine Learning Projects
+
+✔ Practicing Python
+
+✔ Exploring Deep Learning
+
+✔ Preparing for AI/ML Interviews
+
+✔ Contributing to Open Source
+
+✔ Solving Real-World Problems with AI
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OnkarHiremath2011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarHiremath2011&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OnkarHiremath2011&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛡 Titan Shield
-### AI + IoT Tourist Safety Ecosystem
+## 🛡️ Titan Shield
+### AI + IoT Smart Tourist Safety Ecosystem
 
-✔ Flask Backend Architecture
+An intelligent tourist safety platform integrating **Artificial Intelligence**, **IoT**, and **Real-Time Emergency Response**.
 
-✔ ESP32 Wearable Integration
+### ✨ Features
 
-✔ ML-Based Anomaly Detection
+- Smart Wearable Integration (ESP32)
+- AI-Based Anomaly Detection
+- Live GPS Tracking
+- Automated SOS Alerts
+- Emergency Contact Notification
+- Cloud-Based Monitoring
+- Intelligent Incident Detection
 
-✔ Automated SOS Response System
+### 🛠 Tech Stack
 
-✔ Emergency Workflow Automation
-
-**Tech Used**
-
-`Python` `Flask` `Machine Learning` `ESP32` `IoT`
-
----
-
-### 😊 Moodify
-### Multi-Modal AI Mood Detection Platform
-
-✔ Emotion Detection
-
-✔ AI Recommendation System
-
-✔ Intelligent User Insights
-
-✔ Modern Responsive Interface
-
-✔ Project Leadership
-
-**Tech Used**
-
-`Python` `Flask` `Machine Learning`
+`Python` `Flask` `Machine Learning` `ESP32` `IoT` `GPS`
 
 ---
 
-### ☕ Smart Cafe AI
-### Intelligent Restaurant Management System
+## 😊 Moodify
 
-✔ Digital Menu Platform
+### Multi-Modal AI Mood Detection System
 
-✔ Smart Ordering Workflow
+An AI-powered platform capable of identifying human emotions using multiple input sources.
 
-✔ Responsive Interface
+### ✨ Features
 
-✔ Scalable Application Architecture
+- Facial Emotion Recognition
+- Speech Emotion Detection
+- Text Sentiment Analysis
+- Personalized Recommendations
+- Responsive UI
+- Intelligent Mood Analytics
 
-**Tech Used**
+### 🛠 Tech Stack
 
-`Python` `HTML` `CSS` `JavaScript`
+`Python`
+
+`Flask`
+
+`TensorFlow`
+
+`OpenCV`
+
+`Machine Learning`
+
+`SQLite`
+
+---
+
+## 🏥 AI Multi-Agent Diagnostic Assistant
+
+### AI-Based Medical Imaging Diagnosis Platform
+
+An intelligent diagnostic assistant capable of analyzing multiple medical imaging modalities using specialized AI models.
+
+### ✨ Features
+
+- Multi-Agent AI Architecture
+- MRI Analysis
+- X-Ray Analysis
+- CT Scan Analysis
+- Disease Prediction
+- AI Report Generation
+- Intelligent Workflow
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Django`
+
+`TensorFlow`
+
+`OpenCV`
+
+`Machine Learning`
+
+`MySQL`
+
+---
+
+## ☕ Smart Cafe AI
+
+### AI-Based Restaurant Management System
+
+A smart restaurant platform focused on improving operational efficiency and customer experience.
+
+### ✨ Features
+
+- Smart Digital Menu
+- Intelligent Ordering
+- Inventory Management
+- Sales Dashboard
+- Responsive Design
+
+### 🛠 Tech Stack
+
+`Python`
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`SQLite`
 
 ---
 
@@ -198,46 +386,171 @@ To build AI-powered products and scalable software systems that solve real-world
 
 ### Cognifyz Technologies
 
-📅 Dec 2025 – Jan 2026
+📅 **Dec 2025 – Jan 2026**
 
-- Developed scalable backend modules
+### Responsibilities
+
+- Developed scalable Python applications
+- Improved code modularity
 - Optimized data-processing workflows
-- Collaborated using Git workflows
-- Improved software modularity
-- Worked on production-oriented Python development
+- Worked with Git & GitHub
+- Collaborated on production-oriented projects
+- Followed industry-standard coding practices
 
 ---
 
-# 🏆 Achievements
+# 🏅 Achievements
 
-🥇 National Level Smart India Hackathon Participant
+🥇 Smart India Hackathon 2025
+National Level Participant
 
-🚀 Led AI & IoT-Based Projects
+🏆 Developed Multiple AI & ML Applications
 
-💡 Developed Multiple Real-World Applications
+📊 Working on End-to-End Data Science Projects
 
-🏅 Multiple Technical Certifications
+🤖 Designed Intelligent AI Solutions
+
+📡 Built IoT-Based Smart Systems
+
+💡 Passionate About Real-World Problem Solving
+
+🚀 Continuously Improving Technical Skills
+
+---
+
+# 📚 Currently Exploring
+
+- Machine Learning Algorithms
+- Data Science Workflows
+- Deep Learning
+- Feature Engineering
+- Model Optimization
+- Explainable AI (XAI)
+- MLOps Fundamentals
+- Cloud Deployment
+- Open Source Contribution
+
+---
+
+# 📜 Certifications
+
+- 🏅 Python Programming
+- 🏅 Machine Learning
+- 🏅 Data Science
+- 🏅 SQL for Data Analysis
+- 🏅 Cloud Computing
+- 🏅 Internet of Things (IoT)
+- 🏅 Data Analytics
+- 🏅 Git & GitHub
+
+---
+
+# 📖 Learning Roadmap
+
+✔ Data Science Fundamentals
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Computer Vision
+
+✔ Natural Language Processing (NLP)
+
+✔ Large Language Models (LLMs)
+
+✔ MLOps
+
+✔ Cloud AI Services
+
+✔ System Design
+
+✔ Open Source Contribution
 
 ---
 
 # 🎯 2026 Goals
 
-🎯 Build Production-Ready AI Applications
+🎯 Build Production-Ready Machine Learning Projects
 
-🎯 Contribute to Open Source Projects
+🎯 Master Data Science & Advanced Machine Learning
 
-🎯 Master Backend & System Design
+🎯 Learn Deep Learning & Computer Vision
 
-🎯 Strengthen Machine Learning Expertise
+🎯 Contribute to Open Source
 
-🎯 Secure AI/ML or Software Engineering Opportunities
+🎯 Publish Technical Blogs
+
+🎯 Participate in More National Hackathons
+
+🎯 Secure an AI / ML Internship
+
+🎯 Become a Machine Learning Engineer
+
+---
+
+# 📌 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,sqlite,git,github,vscode,html,css,javascript"/>
+
+</p>
+
+---
+
+# 📈 My Development Philosophy
+
+> **"Learning never stops. Every dataset tells a story, every model teaches a lesson, and every project is a step toward building intelligent solutions."**
+
+---
+
+# 🌟 Fun Facts
+
+💻 I enjoy building AI-powered applications.
+
+📊 I love discovering insights from data.
+
+🧠 Machine Learning is my favorite domain.
+
+🚀 I enjoy turning ideas into real-world products.
+
+🌱 I believe consistency beats perfection.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:hiremathonkar2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/onkar-hiremath-aa5833319">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OnkarHiremath2011">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+It motivates me to build more AI, Machine Learning, and Data Science projects.
 
 ---
 
 <div align="center">
 
-### 💡 "Turning Ideas into Intelligent Solutions"
+## 💡 "Turning Data into Intelligence, and Ideas into Impact."
 
-<img src="https://komarev.com/ghpvc/?username=OnkarHiremath2011&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Keep+Learning,+Keep+Building!;Let's+Build+Intelligent+Solutions+Together!" />
 
 </div>

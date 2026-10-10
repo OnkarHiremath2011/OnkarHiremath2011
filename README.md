@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Onkar Hiremath
 
-### 🚀 AI • Machine Learning • Data Science Enthusiast
+### 🚀• Data Science Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Python+Developer;Always+Learning+Something+New+🚀" />
 

@@ -24,8 +24,6 @@
 
 🏆 **Smart India Hackathon 2025 – National Level Participant**
 
-💼 **Python Development Intern @ Cognifyz Technologies**
-
 ---
 
 ## 🚀 Passionate About
@@ -38,15 +36,10 @@
 
 📈 Data Analytics
 
-🧹 Data Preprocessing
-
 📉 Data Visualization
 
 ☁ Cloud Computing
 
-📡 IoT & Embedded Systems
-
-💡 Intelligent Product Development
 
 ---
 
@@ -55,12 +48,7 @@
 - Data Science
 - Machine Learning
 - Deep Learning
-- Statistics for AI
-- Feature Engineering
-- Model Evaluation
-- Data Visualization
-- Model Deployment
-- MLOps Fundamentals
+  
 
 ---
 

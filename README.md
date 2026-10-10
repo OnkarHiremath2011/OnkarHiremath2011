@@ -366,26 +366,7 @@ A smart restaurant platform focused on improving operational efficiency and cust
 
 `SQLite`
 
----
-
-# 💼 Experience
-
-## Python Development Intern
-
-### Cognifyz Technologies
-
-📅 **Dec 2025 – Jan 2026**
-
-### Responsibilities
-
-- Developed scalable Python applications
-- Improved code modularity
-- Optimized data-processing workflows
-- Worked with Git & GitHub
-- Collaborated on production-oriented projects
-- Followed industry-standard coding practices
-
----
+-----
 
 # 🏅 Achievements
 

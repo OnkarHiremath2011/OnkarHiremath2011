@@ -436,25 +436,6 @@ National Level Participant
 
 ✔ Open Source Contribution
 
----
-
-# 🎯 2026 Goals
-
-🎯 Build Production-Ready Machine Learning Projects
-
-🎯 Master Data Science & Advanced Machine Learning
-
-🎯 Learn Deep Learning & Computer Vision
-
-🎯 Contribute to Open Source
-
-🎯 Publish Technical Blogs
-
-🎯 Participate in More National Hackathons
-
-🎯 Secure an AI / ML Internship
-
-🎯 Become a Machine Learning Engineer
 
 ---
 

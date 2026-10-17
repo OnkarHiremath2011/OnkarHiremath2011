@@ -62,22 +62,6 @@ To become a Machine Learning Engineer by designing intelligent, scalable and imp
 
 ---
 
-# 📈 Impact Snapshot
-
-🏆 National Level Smart India Hackathon Participant
-
-🤖 Built AI & ML Applications
-
-📊 Learning Data Science Daily
-
-📡 Developed IoT Based Smart Systems
-
-💡 Passionate About Solving Real-World Problems
-
-🚀 Continuously Building Projects
-
----
-
 # ⚡ Tech Stack
 
 ## 🤖 Artificial Intelligence & Data Science
@@ -216,18 +200,7 @@ Power BI (Learning)
 
 ✔ Solving Real-World Problems with AI
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OnkarHiremath2011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarHiremath2011&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
+------
 
 # 🚀 Featured Projects
 
@@ -397,11 +370,6 @@ National Level Participant
 
 </p>
 
----
-
-# 📈 My Development Philosophy
-
-> **"Learning never stops. Every dataset tells a story, every model teaches a lesson, and every project is a step toward building intelligent solutions."**
 
 ---
 

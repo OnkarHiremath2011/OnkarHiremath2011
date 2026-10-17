@@ -24,16 +24,6 @@
 
 🏆 **Smart India Hackathon 2025 – National Level Participant**
 
-
----
-
-## 🌱 Currently Learning
-
-- Data Science
-- Machine Learning
-- Deep Learning
-  
-
 ---
 
 ## 🎯 Career Objective

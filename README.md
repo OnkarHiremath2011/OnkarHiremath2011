@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Onkar Hiremath
 
-### 🚀• Data Science Enthusiast
+### 🚀 Data Science, Machine Learning & AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Learner;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Python+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Data+Analyst+%26+Python+Developer;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Always+Learning+Something+New+🚀" />
 
 <img src="https://komarev.com/ghpvc/?username=OnkarHiremath2011&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -16,360 +16,80 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering Student**
-
-🏫 **Brahmdevdada Mane Institute of Technology**
+🎓 **Final-year B.Tech Computer Science Engineering Student** at Brahmdevdada Mane Institute of Technology (BMIT), Solapur[cite: 1].
 
 📈 **CGPA:** **8.66 / 10**
 
-🏆 **Smart India Hackathon 2025 – National Level Participant**
-
----
-
-## 🎯 Career Objective
-
-To become a Machine Learning Engineer by designing intelligent, scalable and impactful AI solutions that solve real-world challenges using Data Science, Machine Learning and Artificial Intelligence.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/OnkarHiremath2011">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/onkar-hiremath-aa5833319">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:hiremathonkar2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+🎯 **Career Objective:** Seeking an entry-level Data Analyst, Python Developer, or Machine Learning Engineer role[cite: 1]. Passionate about designing intelligent, scalable, and impactful AI solutions that solve real-world challenges using Python, SQL, and Machine Learning[cite: 1].
 
 ---
 
 # ⚡ Tech Stack
 
-## 🤖 Artificial Intelligence & Data Science
+**Programming Languages:** Python, SQL, C, C++[cite: 1]  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, MS Excel (dashboards and reports)[cite: 1]  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Supervised Learning, Deep Learning (CNNs), Anomaly Detection, Multi-modal Learning[cite: 1]  
+**Web & Tools:** Flask, Django, REST APIs, HTML, CSS, Git, GitHub[cite: 1]  
+**Databases:** MySQL, PostgreSQL, SQLite[cite: 1]  
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-
-</p>
-
-**Machine Learning**
-
-**Data Science**
-
-**Deep Learning**
-
-**NumPy**
-
-**Pandas**
-
-**Scikit-Learn**
-
-**Matplotlib**
-
-**Seaborn**
-
-**Feature Engineering**
-
-**Data Cleaning**
-
-**Exploratory Data Analysis**
-
-**Model Evaluation**
-
----
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,postgres,sqlite,git,github,vscode,html,css,javascript,flask,django,c,cpp"/>
 </p>
 
 ---
-
-## 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql"/>
-
-</p>
-
----
-
-## 🌐 Web Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
-</p>
-
----
-
-## ☁ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
-
-</p>
-
-Learning AWS • Google Cloud • Cloud Computing
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-Git
-
-GitHub
-
-VS Code
-
-Jupyter Notebook
-
-Google Colab
-
-Excel
-
-Power BI (Learning)
-
----
-
-# 🔥 Current Focus
-
-✔ Learning Data Science Daily
-
-✔ Building Machine Learning Projects
-
-✔ Practicing Python
-
-✔ Exploring Deep Learning
-
-✔ Preparing for AI/ML Interviews
-
-✔ Contributing to Open Source
-
-✔ Solving Real-World Problems with AI
-
-------
 
 # 🚀 Featured Projects
 
-## 🛡️ Titan Shield
-### AI + IoT Smart Tourist Safety Ecosystem
-
-An intelligent tourist safety platform integrating **Artificial Intelligence**, **IoT**, and **Real-Time Emergency Response**.
-
-### ✨ Features
-
-- Smart Wearable Integration (ESP32)
-- AI-Based Anomaly Detection
-- Live GPS Tracking
-- Automated SOS Alerts
-- Emergency Contact Notification
-- Cloud-Based Monitoring
-- Intelligent Incident Detection
-
-### 🛠 Tech Stack
-
-`Python` `Flask` `Machine Learning` `ESP32` `IoT` `GPS`
-
----
-
-## 😊 Moodify
-
-### Multi-Modal AI Mood Detection System
-
-An AI-powered platform capable of identifying human emotions using multiple input sources.
-
-### ✨ Features
-
-- Facial Emotion Recognition
-- Speech Emotion Detection
-- Text Sentiment Analysis
-- Personalized Recommendations
-- Responsive UI
-- Intelligent Mood Analytics
-
-### 🛠 Tech Stack
-
-`Python`
-
-`Flask`
-
-`TensorFlow`
-
-`OpenCV`
-
-`Machine Learning`
-
-`SQLite`
-
----
-
 ## 🏥 AI Multi-Agent Diagnostic Assistant
+**Flask, MySQL, 14 Machine Learning Models**[cite: 1]
+- Built a robust diagnostic platform unifying 14 distinct ML models into a single system with a lazy-loading inference cache[cite: 1].
+- Implemented strict role-based access control for patients, doctors, and labs[cite: 1].
+- Ensured AI-generated diagnostic reports remain locked until approved by a verified physician[cite: 1].
+- Integrated dynamic input forms, telehealth scheduling, lab report dispatch, and dual payment gateways[cite: 1].
 
-### AI-Based Medical Imaging Diagnosis Platform
+## 🛡️ Titan Shield: Smart Tourist Safety Ecosystem
+**Smart India Hackathon 2025 – National Level Entry**[cite: 1]
+- Built and validated a machine learning anomaly detection engine designed for a tourist safety system[cite: 1].
+- Pre-processed and labeled complex sensor data using Python, Pandas, and NumPy, ensuring consistent data quality from raw inputs to model-ready datasets[cite: 1].
 
-An intelligent diagnostic assistant capable of analyzing multiple medical imaging modalities using specialized AI models.
+## 😊 Moodify: Multi-Modal AI Mood Detector
+**Project Leader (2024)**[cite: 1]
+- Led a team to develop a comprehensive mood classification model processing multi-modal signals (text, audio, and visual inputs)[cite: 1].
+- Directed data preparation and established annotation guidelines for consistent dataset labeling[cite: 1].
+- Built an interactive Flask web interface with HTML and CSS for users to submit inputs and view predicted moods[cite: 1].
 
-### ✨ Features
-
-- Multi-Agent AI Architecture
-- MRI Analysis
-- X-Ray Analysis
-- CT Scan Analysis
-- Disease Prediction
-- AI Report Generation
-- Intelligent Workflow
-
-### 🛠 Tech Stack
-
-`Python`
-
-`Django`
-
-`TensorFlow`
-
-`OpenCV`
-
-`Machine Learning`
-
-`MySQL`
+## ☕ Smart Cafe AI: Data-Driven Ordering Platform
+**Developer**[cite: 1]
+- Developed a full-stack cafe ordering platform utilizing Python, Django, SQL, HTML, and CSS[cite: 1].
+- Structured SQL databases for menu items, customers, and orders to ensure consistent data storage and seamless analytical querying[cite: 1].
+- Designed robust data collection and validation steps for clean frontend-to-backend user input flow[cite: 1].
 
 ---
 
-## ☕ Smart Cafe AI
+# 🏅 Achievements & Certifications
 
-### AI-Based Restaurant Management System
-
-A smart restaurant platform focused on improving operational efficiency and customer experience.
-
-### ✨ Features
-
-- Smart Digital Menu
-- Intelligent Ordering
-- Inventory Management
-- Sales Dashboard
-- Responsive Design
-
-### 🛠 Tech Stack
-
-`Python`
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`SQLite`
-
------
-
-# 🏅 Achievements
-
-🥇 Smart India Hackathon 2025
-National Level Participant
-
-🏆 Developed Multiple AI & ML Applications
-
-📊 Working on End-to-End Data Science Projects
-
-🤖 Designed Intelligent AI Solutions
-
-📡 Built IoT-Based Smart Systems
-
-💡 Passionate About Real-World Problem Solving
-
-🚀 Continuously Improving Technical Skills
-
----
-
-# 📚 Currently Exploring
-
-- Machine Learning Algorithms
-- Data Science Workflows
-- Deep Learning
-- Feature Engineering
-- Model Optimization
-- Explainable AI (XAI)
-- MLOps Fundamentals
-- Cloud Deployment
-- Open Source Contribution
-
----
-
-# 📜 Certifications
-
-- 🏅 Python Programming
-- 🏅 Machine Learning
-- 🏅 Data Science
-- 🏅 SQL for Data Analysis
-- 🏅 Cloud Computing
-- 🏅 Internet of Things (IoT)
-- 🏅 Data Analytics
-- 🏅 Git & GitHub
-
----
-
-# 📌 Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,sqlite,git,github,vscode,html,css,javascript"/>
-
-</p>
-
+🏆 **National-Level Participant**, Smart India Hackathon (SIH) 2025 (Represented BMIT Solapur with the *Titan Shield* project)[cite: 1].  
+💼 **Deloitte Data Analytics Virtual Experience Programme**[cite: 1].  
+📜 **Python and PostgreSQL Systems Development**[cite: 1].  
+📜 **Data Structures and Algorithms Analysis**[cite: 1].  
+📜 **Selenium WebDriver Automated Testing**[cite: 1].  
+📜 **IoT and Cloud Integration**[cite: 1].  
 
 ---
 
 # 📫 Let's Connect
 
-<p align="center">
-
+<p align="left">
 <a href="mailto:hiremathonkar2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-hiremathonkar2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/onkar-hiremath-aa5833319">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/OnkarHiremath2011">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
-
----
-
-# ❤️ Support My Work
-
-If you like my projects, consider giving them a ⭐ on GitHub.
-
-It motivates me to build more AI, Machine Learning, and Data Science projects.
-
----
 
 <div align="center">
 

@@ -24,14 +24,6 @@
 
 ---
 
-# 💼 Experience
-
-### **Deloitte Data Analytics Virtual Experience Programme (2025-2026)**
-- Completed a virtual programme simulating professional consulting work.
-- Gained hands-on experience analyzing datasets, finding trends and anomalies, and writing insight reports.
-
----
-
 # 📊 GitHub Contributions
 
 <p align="center">

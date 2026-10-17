@@ -24,16 +24,37 @@
 
 ---
 
+# 💼 Experience
+
+### **Deloitte Data Analytics Virtual Experience Programme (2025-2026)**[cite: 1]
+- Completed a virtual programme simulating professional consulting work[cite: 1].
+- Gained hands-on experience analyzing datasets, finding trends and anomalies, and writing insight reports[cite: 1].
+
+---
+
+# 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarHiremath2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnkarHiremath2011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarHiremath2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 # ⚡ Tech Stack
 
-**Programming Languages:** Python, SQL, C, C++[cite: 1]  
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, MS Excel (dashboards and reports)[cite: 1]  
+**Programming Languages:** Python, C, C++, SQL[cite: 1]  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, MS Excel (dashboards and reports), Data Entry[cite: 1]  
 **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Supervised Learning, Deep Learning (CNNs), Anomaly Detection, Multi-modal Learning[cite: 1]  
-**Web & Tools:** Flask, Django, REST APIs, HTML, CSS, Git, GitHub[cite: 1]  
+**Web, Testing & Tools:** Flask, Django, REST APIs, Selenium WebDriver, HTML, CSS, Git, GitHub[cite: 1]  
 **Databases:** MySQL, PostgreSQL, SQLite[cite: 1]  
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,postgres,sqlite,git,github,vscode,html,css,javascript,flask,django,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres,sqlite,tensorflow,opencv,sklearn,git,github,vscode,html,css,flask,django"/>
 </p>
 
 ---
@@ -79,7 +100,7 @@
 
 # 📫 Let's Connect
 
-<p align="left">
+<p align="center">
 <a href="mailto:hiremathonkar2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-hiremathonkar2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -90,6 +111,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+---
 
 <div align="center">
 

@@ -24,22 +24,6 @@
 
 🏆 **Smart India Hackathon 2025 – National Level Participant**
 
----
-
-## 🚀 Passionate About
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-📊 Data Science
-
-📈 Data Analytics
-
-📉 Data Visualization
-
-☁ Cloud Computing
-
 
 ---
 
@@ -244,15 +228,6 @@ Power BI (Learning)
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OnkarHiremath2011&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -414,31 +389,6 @@ National Level Participant
 
 ---
 
-# 📖 Learning Roadmap
-
-✔ Data Science Fundamentals
-
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Computer Vision
-
-✔ Natural Language Processing (NLP)
-
-✔ Large Language Models (LLMs)
-
-✔ MLOps
-
-✔ Cloud AI Services
-
-✔ System Design
-
-✔ Open Source Contribution
-
-
----
-
 # 📌 Featured Technologies
 
 <p align="center">
@@ -452,20 +402,6 @@ National Level Participant
 # 📈 My Development Philosophy
 
 > **"Learning never stops. Every dataset tells a story, every model teaches a lesson, and every project is a step toward building intelligent solutions."**
-
----
-
-# 🌟 Fun Facts
-
-💻 I enjoy building AI-powered applications.
-
-📊 I love discovering insights from data.
-
-🧠 Machine Learning is my favorite domain.
-
-🚀 I enjoy turning ideas into real-world products.
-
-🌱 I believe consistency beats perfection.
 
 ---
 

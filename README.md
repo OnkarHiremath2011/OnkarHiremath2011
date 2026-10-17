@@ -4,9 +4,9 @@
 
 ### 🚀 Data Science, Machine Learning & AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Data+Analyst+%26+Python+Developer;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=40c463&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Data+Analyst+%26+Python+Developer;Building+Intelligent+AI+Solutions;Smart+India+Hackathon+National+Participant;Always+Learning+Something+New+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=OnkarHiremath2011&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=OnkarHiremath2011&label=Profile+Views&color=40c463&style=for-the-badge"/>
 
 </div>
 
@@ -21,6 +21,14 @@
 📈 **CGPA:** **8.66 / 10**
 
 🎯 **Career Objective:** Seeking an entry-level Data Analyst, Python Developer, or Machine Learning Engineer role. Passionate about designing intelligent, scalable, and impactful AI solutions that solve real-world challenges using Python, SQL, and Machine Learning.
+
+---
+
+# 💼 Experience
+
+### **Deloitte Data Analytics Virtual Experience Programme (2025-2026)**
+- Completed a virtual programme simulating professional consulting work.
+- Gained hands-on experience analyzing datasets, finding trends and anomalies, and writing insight reports.
 
 ---
 
@@ -112,6 +120,6 @@
 
 ## 💡 "Turning Data into Intelligence, and Ideas into Impact."
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Keep+Learning,+Keep+Building!;Let's+Build+Intelligent+Solutions+Together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=40c463&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Keep+Learning,+Keep+Building!;Let's+Build+Intelligent+Solutions+Together!" />
 
 </div>

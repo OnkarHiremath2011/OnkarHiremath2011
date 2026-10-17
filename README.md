@@ -130,26 +130,6 @@ Learning AWS • Google Cloud • Cloud Computing
 
 ---
 
-## 📡 IoT & Embedded Systems
-
-ESP32
-
-Arduino
-
-NodeMCU
-
-BLE
-
-GPS
-
-GSM
-
-Sensor Integration
-
-MQTT
-
----
-
 ## 🛠 Tools
 
 <p>
